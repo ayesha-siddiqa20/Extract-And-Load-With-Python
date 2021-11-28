@@ -1,0 +1,10 @@
+step-1 launch xmapp
+step-2 start sql 
+step-3 start apache
+step-4 click on admin for sql
+step-5 go to sql
+step-6 create database students: command create database students;
+step-7 create table studentmarks: command create table studentmarks(names varchar(200),classes varchar(20),marks varchar(10))
+step-8 create user under privileges e.g testuser , password: admin , grant all
+step-9 create file students.csv
+step-10 run python code
